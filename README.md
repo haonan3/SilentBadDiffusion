@@ -16,9 +16,12 @@
  
 ---
 
-<h3 align="center"> If you like our work, please give us a star ⭐ on GitHub for the latest updates. </h3>
+<h4 align="center"> If you find our project helpful, please star our repo on GitHub ⭐ to stay updated with our latest features and improvements! </h4>
 
 ## 📝 ToDo
+
+- [x] **Release the SilentBadDiffusion Code:**
+    - Make the SilentBadDiffusion code publicly available.
 
 - [ ] **Detailed Step-by-Step Instructions:**
     - Provide comprehensive, step-by-step instructions for setting up and running all aspects of the project to ensure easy reproducibility.
