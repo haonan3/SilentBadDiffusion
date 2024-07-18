@@ -14,6 +14,30 @@
 
 **🔥 [2024-07-18]: Code Released!**
  
+---
+
+<h3 align="center"> If you like our work, please give us a star ⭐ on GitHub for the latest updates. </h3>
+
+## 📝 ToDo
+
+- [ ] **Detailed Step-by-Step Instructions:**
+    - Provide comprehensive, step-by-step instructions for setting up and running all aspects of the project to ensure easy reproducibility.
+
+- [ ] **Result Collector:**
+    - Develop a script to automatically collect and organize all experimental results for easier analysis and comparison.
+
+- [ ] **t-SNE Visualization:**
+    - Include a module to perform t-SNE visualization of the results, making it simpler to reproduce the visualizations presented in the paper.
+
+- [ ] **Extended Documentation:**
+    - Expand the documentation to cover advanced usage scenarios and troubleshooting tips.
+
+- [ ] **Performance Metrics:**
+    - Implement additional metrics to evaluate the model performance more thoroughly.
+
+
+
+
 
 
 ## 📖 Overview
