@@ -1,0 +1,17 @@
+packaging==24.0
+tokenizers==0.19.1
+torchgeometry==0.1.2
+tqdm==4.65.2
+transformers==4.41.1
+accelerate==0.30.1
+huggingface-hub==0.23.2
+datasets==2.19.1
+diffusers==0.27.2
+ipykernel==6.29.5
+ipython==8.26.0
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+openai==1.35.13
+pandas==2.2.2
+tensorboardX==2.6.2.2
+wandb==0.17.0
