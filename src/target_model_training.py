@@ -228,8 +228,8 @@ def SlientBadDiffusion_validation(global_step, SilentBadDiffusion_logger,
                     best_max_sim = sim_score.max().item()
                 with open(os.path.join(_logdir,'sim_info.txt'), 'a+') as _logger_f:
                     _logger_f.write('{}\t{}\t{}\t{}\t{}\n'.format(global_step, sim_score.mean().item(), sim_score.max().item(), best_avg_sim, best_max_sim))
-            
-            if sim_score.max().item() > 0.4 and sim_score.max().item() > best_model_sim_score:
+            # NOTE: While the threshold for First-Attack Epoch (FAE) and Copyright Infringement Rate (CIR) is 0.5, we use 0.45 (can be lower if needed) for saving checkpoints. The actual metric computation should still use 0.5.
+            if sim_score.max().item() > 0.45 and sim_score.max().item() > best_model_sim_score:
                 success_num += 1
                 best_model_sim_score = sim_score.max().item()
                 # under logger.logdir, if have folder starting with name prefix 'best_model', then remove all of them
