@@ -1,4 +1,4 @@
-# The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline (ICML 2024)
+# The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline (ICML 2024 Oral Paper)
 <h2 align="center">  🌟  <a href="https://icml.cc/virtual/2024/oral/35511"> ICML 2024 Oral </a>
 ｜ <a href="https://arxiv.org/abs/2401.04136">📑 Paper</a>  </h2>
 <p align="center">
